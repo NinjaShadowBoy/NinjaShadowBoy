@@ -1,16 +1,25 @@
-## Hi there 👋
+### **👋 Hello, World! I'm Alex Nelson Ryan!**
 
-<!--
-**NinjaShadowBoy/NinjaShadowBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **3rd Year Engineering Student** | 🎲 **Minigame Developer** | 📚 **Algorithm Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **About Me:**
+- 🌟 I’m passionate about solving complex problems with elegant **algorithms**.
+- 🧠 Currently diving deeper into **AI with Python** and exploring the world of **Cloud Computing**.
+- 💻 Coding in: **JavaScript**, **Python**, **C**, **Java**, and **Kotlin**.
+- 🎮 I love creating **fun minigames**—coding joy, one line at a time!
+
+---
+
+### **What I’m Working On:**
+- 🏗 Building cool projects that combine **logic**, **creativity**, and **tech**.
+- 🚀 Experimenting with **machine learning models** to solve real-world problems.
+- 🌤 Exploring **cloud platforms** like AWS and Azure to scale my ideas.
+
+---
+
+### **Let's Connect:**
+- 🌐 Check out my repos and join me on my coding journey!
+- 💡 Always open to **collaboration**, feedback, and new ideas.
+- ✉️ Feel free to reach out—I’d love to hear about your projects, too!
