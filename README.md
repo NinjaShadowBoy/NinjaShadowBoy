@@ -8,7 +8,7 @@
 - 🌟 I’m passionate about solving complex problems with elegant **algorithms**.
 - 🧠 Currently diving deeper into **AI with Python** and exploring the world of **Cloud Computing**.
 - 💻 Coding in: **JavaScript**, **Python**, **C**, **Java**, and **Kotlin**.
-- 🎮 I love creating **fun minigames**—coding joy, one line at a time!
+- 🎮 I love creating **fun minigames** coding joy, one line at a time!
 
 ---
 
@@ -22,4 +22,4 @@
 ### **Let's Connect:**
 - 🌐 Check out my repos and join me on my coding journey!
 - 💡 Always open to **collaboration**, feedback, and new ideas.
-- ✉️ Feel free to reach out—I’d love to hear about your projects, too!
+- ✉️ Feel free to reach out. I’d love to hear about your projects, too!
