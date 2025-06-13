@@ -6,9 +6,10 @@
 
 ### **About Me:**
 - 🌟 I’m passionate about solving complex problems with elegant **algorithms**.
-- 🧠 Currently diving deeper into **AI with Python** and exploring the world of **Cloud Computing**.
+- 🧠 Currently diving deeper into **Android with Kotlin** and exploring the world of **Jetpack Compose**.
 - 💻 Coding in: **JavaScript**, **Python**, **C**, **Java**, and **Kotlin**.
 - 🎮 I love creating **fun minigames** coding joy, one line at a time!
+- 💻 Build backends with **Spring Boot**.
 
 ---
 
