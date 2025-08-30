@@ -1,26 +1,37 @@
 # 💫 About Me:
 ### 👋 Hi, I'm Alex Nelson Ryan<br><br>🎓 Software Engineering Student | 🎮 Minigame Developer | ⚙️ Backend & Systems Programmer
+
 ---
+
 ### 🚀 About Me
 - 💡 Passionate about **solving real problems with code**, especially through elegant **algorithms** and efficient **systems design**.
 - 💻 Comfortable in: **Java**, **Kotlin**, **C**, **JavaScript**, and **Python**.
 - 🧠 Currently deepening my skills in **Jetpack Compose** and **Android development**.
 - 🧱 Building robust backends with **Spring Boot** and exploring modern web stacks.
 - 🎲 I enjoy crafting **minigames** for fun — logic, timing, and pixels!
+  
 ---
+
 ### 🛠 What I’m Building
 - 🧩 A modular **2D game engine in C++** using **SDL2**, with scene transitions, input, and component-based logic.
 - 🏗️ A modern web dashboard for managing **construction site materials**, powered by **Spring Boot** + **Thymeleaf**.
 - 📱 Android apps with a clean UI/UX using **Kotlin** and **Jetpack Compose**.
----### 📚 Interests & Goals
+
+---
+
+### 📚 Interests & Goals
   - 🤖 Exploring the fundamentals of **AI & Machine Learning**.
   - 🔧 Practicing **software architecture** and writing maintainable, scalable code.
   - 🧠 Strengthening algorithmic thinking and clean code habits.
-  ---### 🤝 Let’s Connect
+
+---
+
+### 🤝 Let’s Connect
   - 🌍 Check out my repositories to see my coding journey in action.
   - 🛠 Open to **collaboration**, code reviews, and interesting side-projects.
   - 📬 Don’t hesitate to reach out — I’d love to hear what you’re building too!
-  ---
+
+---
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abena Alex Nelson) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abena Alex Nelson) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alex.nelson.bryan@gmail.com) 
